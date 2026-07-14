@@ -1,82 +1,21 @@
-name: Generate Profile Assets
+# 💫 About Me:
+Hi, I'm Muhammad Lakho 👋<br><br>Cybersecurity | Full-Stack Development | AI & Neural Networks<br><br>I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications. My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.<br><br><br>🔐 Cybersecurity<br><br><br>Application and network security fundamentals<br>Vulnerability assessment and secure coding practices<br>Ongoing focus on defensive security and threat analysis<br><br><br>💻 Web & App Development<br><br><br>Building responsive, production-ready websites and applications<br>End-to-end development: front-end interfaces to back-end architecture<br>Focused on clean, maintainable, and scalable code<br><br><br>🧠 AI & Neural Networks<br><br><br>Designing and experimenting with neural network architectures<br>Applying machine learning to practical, real-world problems<br>Interested in the intersection of AI and secure system design<br><br><br><br>🛠️ Tech Stack<br><br>JavaScript Python React Node.js TensorFlow / PyTorch SQL Linux<br><br>(Update this list with the specific tools/languages you actually use — happy to help refine it.)<br><br><br>📫 Let's Connect<br><br>Open to collaborating on projects involving security, web/app development, or applied AI.
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch:        # lets you trigger it manually
-  push:
-    branches:
-      - main
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadlakho50) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadlakho50@gmail.com) 
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=muhammadlakho50&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-      # ---------- Snake animation ----------
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist-snake/snake.svg
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadlakho50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-      - name: Push snake to snake-output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist-snake
-          publish_branch: snake-output
-          force_orphan: true
+---
+[![](https://komarev.com/ghpvc/?username=muhammadlakho50&icon=0&color=0)](https://visitcount.itsvg.in)
 
-      # ---------- GitHub stats card ----------
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula
-          path: dist-stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push stats to stats-output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist-stats
-          publish_branch: stats-output
-          force_orphan: true
-
-      # ---------- Top languages card ----------
-      - name: Generate languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula
-          path: dist-langs/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push languages to languages-output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist-langs
-          publish_branch: languages-output
-          force_orphan: true
-
-      # ---------- Pac-Man contribution graph ----------
-      - name: Generate pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-      - name: Push pacman graph to pacman-output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: pacman-output
-          force_orphan: true
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
