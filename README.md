@@ -5,8 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Neural+Networking;Cybersecurity;Chess" alt="Typing animation" />
 </p>
-
 <p align="center">
+  <p align="center"> ⚡ CyberSecurity| AI & Neural Networking| Web App Development ⚡
+    
   I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
   My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.
 </p>
