@@ -1,21 +1,112 @@
-# 💫 About Me:
-Hi, I'm Muhammad Lakho 👋<br><br>Cybersecurity | Full-Stack Development | AI & Neural Networks<br><br>I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications. My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.<br><br><br>🔐 Cybersecurity<br><br><br>Application and network security fundamentals<br>Vulnerability assessment and secure coding practices<br>Ongoing focus on defensive security and threat analysis<br><br><br>💻 Web & App Development<br><br><br>Building responsive, production-ready websites and applications<br>End-to-end development: front-end interfaces to back-end architecture<br>Focused on clean, maintainable, and scalable code<br><br><br>🧠 AI & Neural Networks<br><br><br>Designing and experimenting with neural network architectures<br>Applying machine learning to practical, real-world problems<br>Interested in the intersection of AI and secure system design<br><br><br><br>🛠️ Tech Stack<br><br>JavaScript Python React Node.js TensorFlow / PyTorch SQL Linux<br><br>(Update this list with the specific tools/languages you actually use — happy to help refine it.)<br><br><br>📫 Let's Connect<br><br>Open to collaborating on projects involving security, web/app development, or applied AI.
+<h1 align="center">Hi 👋, I'm Muhammad Lakho</h1>
+<h3 align="center">Cybersecurity | Full-Stack Development | AI & Neural Networks</h3>
 
+<p align="center">
+  I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
+  My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadlakho50) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadlakho50@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=muhammadlakho50&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🔐 Cybersecurity
+- Application and network security fundamentals
+- Vulnerability assessment and secure coding practices
+- Ongoing focus on defensive security and threat analysis
+
+## 💻 Web & App Development
+- Building responsive, production-ready websites and applications
+- End-to-end development: front-end interfaces to back-end architecture
+- Focused on clean, maintainable, and scalable code
+
+## 🧠 AI & Neural Networks
+- Designing and experimenting with neural network architectures
+- Applying machine learning to practical, real-world problems
+- Interested in the intersection of AI and secure system design
+
+<br>
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://instagram.com/muhammadlakho50" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+</a>
+<a href="mailto:muhammadlakho50@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
+</p>
+
+Open to collaborating on projects involving security, web/app development, or applied AI.
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.shion.dev/api?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
+</p>
+
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=muhammadlakho50&theme=aura_dark&hide_border=false" width="100%" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadlakho50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadlakho50&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
+## 👻 Pac-Man Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg#gh-light-mode-only" />
+</p>
+
+<br>
 
 ---
-[![](https://komarev.com/ghpvc/?username=muhammadlakho50&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=muhammadlakho50&icon=0&color=0" />
+</a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
