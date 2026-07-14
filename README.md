@@ -1,5 +1,6 @@
-name: Generate Snake & Pacman Animations
 
+name: Generate Snake Animation
+ 
 on:
   schedule:
     - cron: "0 */6 * * *"   # runs every 6 hours
@@ -7,47 +8,28 @@ on:
   push:
     branches:
       - main
-
+ 
 jobs:
-  generate-snake:
+  generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG/GIF
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-
-      - name: Push snake.svg to snake-output branch
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/pacman-contribution-grid.svg?color_snake=orange&color_dots=purple
+            dist/pacman-contribution-grid-dark.svg?palette=github-dark&color_snake=orange&color_dots=purple
+ 
+      - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: snake-output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  generate-pacman:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Pacman SVG
-        uses: Platane/snk@v3
-        id: pacman-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-light&color_snake=orange&color_dots=purple
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=orange&color_dots=purple
-
-      - name: Push pacman svgs to pacman-output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: pacman-output
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
