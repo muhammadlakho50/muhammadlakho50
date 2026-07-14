@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Lakho</h1>
-<h3 align="center">Cybersecurity | Full-Stack Development | AI & Neural Networks</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Neural+Networking;Cybersecurity;Chess" alt="Typing animation" />
+</p>
 
 <p align="center">
   I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
@@ -92,6 +95,16 @@ Open to collaborating on projects involving security, web/app development, or ap
 <img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
+## 👻 Pac-Man Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg#gh-light-mode-only" />
+</p>
+
+<br>
+
+---
 
 <p align="center">
 <a href="https://visitcount.itsvg.in">
