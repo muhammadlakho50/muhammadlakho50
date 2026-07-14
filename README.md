@@ -1,106 +1,53 @@
-<h1 align="center">Hi 👋, I'm Muhammad Lakho</h1>
-<h3 align="center">Cybersecurity | Full-Stack Development | AI & Neural Networks</h3>
+name: Generate Snake & Pacman Animations
 
-<p align="center">
-  I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
-  My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.
-</p>
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # runs every 6 hours
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
-<br>
+jobs:
+  generate-snake:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
 
-## 🔐 Cybersecurity
-- Application and network security fundamentals
-- Vulnerability assessment and secure coding practices
-- Ongoing focus on defensive security and threat analysis
+      - name: Push snake.svg to snake-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: snake-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-## 💻 Web & App Development
-- Building responsive, production-ready websites and applications
-- End-to-end development: front-end interfaces to back-end architecture
-- Focused on clean, maintainable, and scalable code
+  generate-pacman:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pacman SVG
+        uses: Platane/snk@v3
+        id: pacman-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github-light&color_snake=orange&color_dots=purple
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=orange&color_dots=purple
 
-## 🧠 AI & Neural Networks
-- Designing and experimenting with neural network architectures
-- Applying machine learning to practical, real-world problems
-- Interested in the intersection of AI and secure system design
-
-<br>
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://instagram.com/muhammadlakho50" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
-<a href="mailto:muhammadlakho50@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
-</p>
-
-Open to collaborating on projects involving security, web/app development, or applied AI.
-
-<br>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-</p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.shion.dev/api?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
-</p>
-
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=muhammadlakho50&theme=aura_dark&hide_border=false" width="100%" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadlakho50&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
-<br>
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid-dark.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg#gh-light-mode-only" />
-</p>
-
-<br>
-
----
-
-<p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=muhammadlakho50&icon=0&color=0" />
-</a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+      - name: Push pacman svgs to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
