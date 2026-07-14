@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  CyberSecurity| AI & Neural Networking | Web Development 
   I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
   My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.
 </p>
