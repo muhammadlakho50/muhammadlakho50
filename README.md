@@ -105,7 +105,7 @@ Open to collaborating on projects involving security, web/app development, or ap
 ## 🌐 3D Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/profile-3d-contrib/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </p>
 
 <br>
