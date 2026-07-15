@@ -1,40 +1,36 @@
-<div align="center">
-<!-- Animated waving banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Noni%20👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/assets/glitch-banner.svg" alt="Muhammad Lakho" width="800" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Neural+Networking;Cybersecurity;Chess" alt="Typing animation" />
 </p>
+
 <p align="center">
   I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
   My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.
 </p>
-<br>
-🔐 Cybersecurity
-
-
-Application and network security fundamentals
-Vulnerability assessment and secure coding practices
-Ongoing focus on defensive security and threat analysis
-
-
-💻 Web & App Development
-
-
-Building responsive, production-ready websites and applications
-End-to-end development: front-end interfaces to back-end architecture
-Focused on clean, maintainable, and scalable code
-
-
-🧠 AI & Neural Networks
-
-
-Designing and experimenting with neural network architectures
-Applying machine learning to practical, real-world problems
-Interested in the intersection of AI and secure system design
-
 
 <br>
-🌐 Connect with Me
+
+## 🔐 Cybersecurity
+- Application and network security fundamentals
+- Vulnerability assessment and secure coding practices
+- Ongoing focus on defensive security and threat analysis
+
+## 💻 Web & App Development
+- Building responsive, production-ready websites and applications
+- End-to-end development: front-end interfaces to back-end architecture
+- Focused on clean, maintainable, and scalable code
+
+## 🧠 AI & Neural Networks
+- Designing and experimenting with neural network architectures
+- Applying machine learning to practical, real-world problems
+- Interested in the intersection of AI and secure system design
+
+<br>
+
+## 🌐 Connect with Me
 
 <p align="left">
 <a href="https://instagram.com/muhammadlakho50" target="_blank">
@@ -44,10 +40,12 @@ Interested in the intersection of AI and secure system design
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
 </p>
+
 Open to collaborating on projects involving security, web/app development, or applied AI.
 
 <br>
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -70,35 +68,54 @@ Open to collaborating on projects involving security, web/app development, or ap
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 </p>
+
 <br>
-📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats.shion.dev/api?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
 </p>
+
 <p align="left">
 <img src="https://streak-stats.demolab.com/?user=muhammadlakho50&theme=aura_dark&hide_border=false" width="100%" />
 </p>
-🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
 
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=muhammadlakho50&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
+
 <br>
-🐍 Snake Game Contribution
+
+## 👻 Pac-Man Contribution Graph
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg">
 </picture>
 </p>
+
 <br>
+
+## 🌐 3D Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</p>
+
+<br>
+
+---
 
 <p align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://komarev.com/ghpvc/?username=muhammadlakho50&icon=0&color=0" />
 </a>
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
