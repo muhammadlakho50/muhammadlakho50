@@ -1,122 +1,68 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/assets/glitch-banner.svg" alt="Muhammad Lakho" width="800" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Neural+Networking;Cybersecurity;Chess" alt="Typing animation" />
-</p>
+<!-- Animated waving banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Noni%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Network%20%26%20Software%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">  ⚡ CyberSecurity | AI & Neural Networking | Web App Development ⚡
-<p align="center">
-  A Passionate CompSci Student And I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
-  My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.
-</p>
-
-<br>
-
-## 🔐 Cybersecurity
-- Application and network security fundamentals
-- Vulnerability assessment and secure coding practices
-- Ongoing focus on defensive security and threat analysis
-
-## 💻 Web & App Development
-- Building responsive, production-ready websites and applications
-- End-to-end development: front-end interfaces to back-end architecture
-- Focused on clean, maintainable, and scalable code
-
-## 🧠 AI & Neural Networks
-- Designing and experimenting with neural network architectures
-- Applying machine learning to practical, real-world problems
-- Interested in the intersection of AI and secure system design
-
-<br>
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://instagram.com/muhammadlakho50" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+<!-- Animated typing subtitle -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+FullTimeFC+⚽+on+YouTube;Routing+%26+Switching+%7C+OSPF+%7C+VLANs;Theory+of+Automata+%7C+CFG+to+CNF;Turning+lectures+into+shipped+projects" alt="Typing SVG" />
 </a>
-<a href="mailto:muhammadlakho50@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
-</p>
 
-Open to collaborating on projects involving security, web/app development, or applied AI.
+</div>
 
-<br>
+<br/>
 
-## 🛠️ Tech Stack
+<!-- Section divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%25" width="100%"/>
 
-<p align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-</p>
+### 🧠 About Me
 
-<br>
+- 🎓 CS student at **Iqra University** — deep in Routing & Switching, Software Engineering, Theory of Automata & Algorithms
+- 🌐 Currently building multi-site enterprise networks in **Cisco Packet Tracer** — OSPFv2, inter-VLAN routing, dual-stack IPv4/IPv6
+- ⚽ Running **FullTimeFC** — a YouTube channel for FIFA & football content
+- 💻 Mac user, terminal-first workflow
+- 🔭 Always shipping something between class and the pitch
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="left">
-<img src="https://github-readme-stats.shion.dev/api?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
-</p>
+<!-- Animated skill icons -->
+<div align="center">
 
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=muhammadlakho50&theme=aura_dark&hide_border=false" width="100%" />
-</p>
+### 🛠️ Tech Stack
 
-## 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,git,github,vscode,linux,figma&theme=dark" />
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadlakho50&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+</div>
 
-<br>
+<br/>
 
-## 👻 Pac-Man Contribution Graph
+<!-- Animated GitHub stats -->
+<div align="center">
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg">
-</picture>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9" height="165"/>
 
-<br>
+<br/>
 
-## 🌐 3D Contribution Graph
+<!-- Animated activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F5D4&line=00F5D4&point=ffffff" width="95%"/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
-</p>
+</div>
 
-<br>
+<br/>
 
----
+<!-- Section divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%25" width="100%"/>
 
-<p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=muhammadlakho50&icon=0&color=0" />
-</a>
-</p>
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📫 Reach Me
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00F5D4"/></a>
+<a href="https://youtube.com/@FullTimeFC"><img src="https://img.shields.io/badge/YouTube-0f0c29?style=for-the-badge&logo=youtube&logoColor=00F5D4"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F5D4"/></a>
+
+</div>
+
+<!-- Animated waving footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
