@@ -1,4 +1,6 @@
-
+<div align="center">
+<!-- Animated waving banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20Noni%20👋
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Neural+Networking;Cybersecurity;Chess" alt="Typing animation" />
 </p>
