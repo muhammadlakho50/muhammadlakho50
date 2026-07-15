@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/assets/security-banner.svg" alt="Muhammad Lakho" width="900" />
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Neural+Networking;Cybersecurity;Chess" alt="Typing animation" />
 </p>
