@@ -1,121 +1,58 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/assets/glitch-banner.svg" alt="Muhammad Lakho" width="800" />
-</p>
+<h2 data-importer="text" align="left">Hi, I'm Muhammad Lakho 👋<br><br>Cybersecurity | Full-Stack Development | AI & Neural Networks<br><br>I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications. My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.<br><br>🔐 Cybersecurity<br><br>Application and network security fundamentals Vulnerability assessment and secure coding practices Ongoing focus on defensive security and threat analysis<br><br>💻 Web & App Development<br><br>Building responsive, production-ready websites and applications End-to-end development: front-end interfaces to back-end architecture Focused on clean, maintainable, and scalable code<br><br>🧠 AI & Neural Networks<br><br>Designing and experimenting with neural network architectures Applying machine learning to practical, real-world problems Interested in the intersection of AI and secure system design<br><br>🛠️ Tech Stack<br><br>JavaScript Python React Node.js TensorFlow / PyTorch SQL Linux<br><br>(Update this list with the specific tools/languages you actually use — happy to help refine it.)<br><br>📫 Let's Connect<br><br>Open to collaborating on projects involving security, web/app development, or applied AI.</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Neural+Networking;Cybersecurity;Chess" alt="Typing animation" />
-</p>
+###
 
-<p align="center">
-  I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
-  My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.
-</p>
+<div data-importer="stats" align="right">
+  <img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<br>
+###
 
-## 🔐 Cybersecurity
-- Application and network security fundamentals
-- Vulnerability assessment and secure coding practices
-- Ongoing focus on defensive security and threat analysis
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 💻 Web & App Development
-- Building responsive, production-ready websites and applications
-- End-to-end development: front-end interfaces to back-end architecture
-- Focused on clean, maintainable, and scalable code
+###
 
-## 🧠 AI & Neural Networks
-- Designing and experimenting with neural network architectures
-- Applying machine learning to practical, real-world problems
-- Interested in the intersection of AI and secure system design
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+</div>
 
-<br>
+###
 
-## 🌐 Connect with Me
+<br clear="both">
 
-<p align="left">
-<a href="https://instagram.com/muhammadlakho50" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
-<a href="mailto:muhammadlakho50@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
-</p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/snake-output/snake.svg" alt="Snake animation" />
 
-Open to collaborating on projects involving security, web/app development, or applied AI.
+###
 
-<br>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-</p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.shion.dev/api?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadlakho50&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" />
-</p>
-
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=muhammadlakho50&theme=aura_dark&hide_border=false" width="100%" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadlakho50&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
-<br>
-
-## 👻 Pac-Man Contribution Graph
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-</p>
 
-<br>
+###
 
-## 🌐 3D Contribution Graph
+<p data-importer="text" align="left">Hello World!!</p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/profile-3d-contrib/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
-</p>
-
-<br>
-
----
-
-<p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=muhammadlakho50&icon=0&color=0" />
-</a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
