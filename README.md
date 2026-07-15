@@ -93,8 +93,11 @@ Open to collaborating on projects involving security, web/app development, or ap
 ## 👻 Pac-Man Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid-dark.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/output/pacman-contribution-grid.svg">
+</picture>
 </p>
 
 <br>
