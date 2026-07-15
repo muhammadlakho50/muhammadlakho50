@@ -64,7 +64,7 @@
     <tspan fill="#00F5D4">&gt;_</tspan> Muhammad Bilawal
   </text>
   <text x="450" y="128" text-anchor="middle" font-family="Fira Code, monospace" font-size="15" fill="#8b949e">
-    CyberSecurty. Code. Problem Solving. Neural Networking. Web App Development.
+          CyberSecurty. Code. Problem Solving. Neural Networking. 
   </text>
   <rect x="330" y="138" width="240" height="1.5" fill="#00F5D4" opacity="0.5">
     <animate attributeName="width" values="0;240;240;0" keyTimes="0;0.4;0.8;1" dur="4s" repeatCount="indefinite"/>
