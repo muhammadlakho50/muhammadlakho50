@@ -61,7 +61,7 @@
 
   <!-- Center: name with terminal-style reveal -->
   <text x="450" y="95" text-anchor="middle" font-family="Fira Code, monospace" font-size="34" fill="#ffffff" font-weight="600">
-    <tspan fill="#00F5D4">&gt;_</tspan> Noni
+    <tspan fill="#00F5D4">&gt;_</tspan> Muhammad Bilawal
   </text>
   <text x="450" y="128" text-anchor="middle" font-family="Fira Code, monospace" font-size="15" fill="#8b949e">
     Networks. Code. Football.
