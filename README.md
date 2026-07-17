@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Problem+Solving;Neural+Networking;Cybersecurity;Chess" alt="Typing animation" />
 </p>
-<p align="center"> CyberSecurity | AI & Neural Networking | Web App Development
+
 <p align="center">
   I build secure, scalable software and explore how intelligent systems can be integrated into real-world applications.
   My work spans three areas: protecting systems, building the products that run on them, and researching the AI models shaping what comes next.
@@ -106,6 +106,12 @@ Open to collaborating on projects involving security, web/app development, or ap
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</p>
+
+## 🏙️ Isometric Contribution City
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muhammadlakho50/muhammadlakho50/main/isometric-city/isometric-city.svg" alt="Isometric contribution city" />
 </p>
 
 <br>
